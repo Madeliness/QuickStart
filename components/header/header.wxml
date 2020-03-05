@@ -1,0 +1,2 @@
+<!--components/header/header.wxml-->
+<view class="components-header" bindtap="handleHeaderTap">{{headerContent}}</view>

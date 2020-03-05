@@ -1,0 +1,4 @@
+/* components/header/header.wxss */
+.components-header {
+  background: green;
+}
